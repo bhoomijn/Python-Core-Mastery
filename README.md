@@ -62,6 +62,7 @@ AI / ML Engineering
 
 ## 📚 Repository Contents
 
+
 | Area                  | What You'll Find                                     |
 | --------------------- | ---------------------------------------------------- |
 | 🟦 `exercises`        | Python exercises, logic building and problem solving |
