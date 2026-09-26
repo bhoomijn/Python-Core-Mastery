@@ -126,6 +126,7 @@ This repository covers Python from fundamentals to practical development.
 
 # 🛠️ Engineering Practices
 
+
 The repository is not only about writing code.
 
 It also focuses on developing good software habits:
