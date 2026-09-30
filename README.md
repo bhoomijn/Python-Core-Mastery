@@ -75,9 +75,12 @@ AI / ML Engineering
 | 🤖 `Mega Project 1`   | Larger AI-powered Python application                 |
 | 🧪 `tests`            | Testing and validation experiments                   |
 
+
 ---
 
+
 # 🧠 Core Concepts
+
 
 This repository covers Python from fundamentals to practical development.
 
