@@ -249,9 +249,12 @@ Python-Basics-to-Projects/
 └── CHANGELOG.md
 ```
 
+
 ---
 
+
 # 💻 Technology Stack
+
 
 ### Programming
 
