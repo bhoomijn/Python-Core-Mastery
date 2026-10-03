@@ -135,6 +135,7 @@ The repository is not only about writing code.
 It also focuses on developing good software habits:
 
 ```text
+
 Clean Code
     ↓
 Reusable Functions
