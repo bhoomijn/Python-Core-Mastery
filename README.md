@@ -168,6 +168,7 @@ Practices explored throughout the repository include:
 
 # ⭐ Featured Project
 
+
 ## 🤖 Mega Project 1 — AI Voice Assistant
 
 One of the larger applications in this repository is **Mega Project 1**, an AI-powered voice assistant built while progressing from Python fundamentals toward practical application development.
@@ -184,7 +185,9 @@ The project combines multiple concepts learned throughout the repository, includ
 * External services
 * Environment variables
 
+
 ### Architecture
+
 
 ```text
               USER
@@ -210,9 +213,12 @@ The project is intentionally maintained inside this learning repository as a mil
 
 > The project will eventually evolve into its own dedicated repository with deeper documentation and additional features.
 
+
 ---
 
+
 # 📂 Project Structure
+
 
 ```text
 Python-Basics-to-Projects/
@@ -287,6 +293,7 @@ Individual projects may use different technologies as the repository evolves.
 ---
 
 # 🔐 Security & Configuration
+
 
 Projects that require API credentials use environment variables rather than hard-coding secrets.
 
