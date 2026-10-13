@@ -36,6 +36,7 @@ Python Fundamentals
 Problem Solving
         │
         ▼
+
 Functions & Modular Programming
         │
         ▼
