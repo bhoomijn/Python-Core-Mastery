@@ -155,6 +155,7 @@ Documentation
 
 Practices explored throughout the repository include:
 
+
 * Modular programming
 * Reusable functions
 * Exception handling
